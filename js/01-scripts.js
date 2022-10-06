@@ -1,3 +1,5 @@
+// Agrego comentarios al programa para poder comparar en el github
+
 console.log('1');
 
 document.addEventListener('DOMContentLoaded',() => {
@@ -6,3 +8,5 @@ document.addEventListener('DOMContentLoaded',() => {
 });
 
 console.log('3');
+
+// Fin de comentarios
